@@ -1,0 +1,38 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #282c35; /* Dark background for a techy feel */
+    color: #fff; /* Light text on dark background */
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #435254;
+    box-shadow: 0 0 20px #43525c33; /* Increased shadow for depth */
+    border-radius: 10px; /* Rounded corners for a modern look */
+    overflow: hidden; /* Ensure content doesn't overflow the container */
+}
+
+header {
+    background-color: #61dafb; /* Bright blue header */
+    color: #282c35; /* Dark text on light background */
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    margin: 0;
+    font-size: 2em; /* Larger font size for impact */
+}
+
+main {
+    padding: 20px;
+}
+
+#greeting {
+    font-size: 1.5em; /* Slightly larger greeting font size */
+    margin-bottom: 20px;
+    color: #f00505; /* Match the header color for consistency */
+}
